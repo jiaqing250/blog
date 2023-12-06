@@ -1,0 +1,2 @@
+# 1、DDD领域详细的参考资料
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/2923644/1665394256043-3ad17ddb-88cc-4549-ab8f-beaaf845ffac.png#averageHue=%23edecea&clientId=u7c314f61-6d00-4&from=paste&id=ufb4e9d0d&originHeight=4907&originWidth=11999&originalType=url&ratio=1&rotation=0&showTitle=false&size=4013782&status=done&style=none&taskId=u0fb3ddfa-b1eb-4770-9606-58c0bd40e05&title=)<br />[DDD 概念参考](https://domain-driven-design.org/zh/ddd-concept-reference.html)
